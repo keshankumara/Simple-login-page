@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(9, 250, 170, 0.575);
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    margin-top: 150px;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
