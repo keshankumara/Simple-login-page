@@ -1,32 +1,14 @@
 <h1> Login Web Page </h1>
-<ul>
-    1. Table of Contents
-</ul>
-<ul>
-    2. Introduction
-</ul>
-<ul>
-    3. Features
-</ul>
-<ul>
-    4. Technologies Used
-</ul>
-<ul>
-    5. Setup
-</ul>
-<ul>
-    6. Usage
-</ul>
-<ul>
-    7. Folder Structure
-</ul>
-<ul>
-    8. Customization
-</ul>
-<ul>
-    9. License
-</ul>
 
+<ul>
+    1. Introduction
+</ul>
+<ul>
+    2. Features
+</ul>
+<ul>
+    3. Technologies Used
+</ul>
 
 <h1> Introduction </h1>
 
